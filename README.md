@@ -24,7 +24,7 @@ There is a final project/survey: 100%
   - project
   - report
   - short presentation
-- Requirement: Each student is required to meet briefly with me around 3-4th week, so that we can discuss to find a good potential topic for your final project. After a topic is chosen, you are required to submit a short proposal (1-2 pages) about what you intend to work on. Later, after you finish your project, you will submit a final report (4+ pages, single spacing), which should clearly describe the motivation of your project, what you have done, and your findings. A 10-min presentation is also needed. A survey needs to be 10+ pages.
+- Requirement: Each student is required to meet briefly with me around 3-4th week, so that we can discuss to find a good potential topic for your final project. After a topic is chosen, you are required to submit a short proposal (1-2 pages) about what you intend to work on. Later, after you finish your project, you will submit a final report (4+ pages), which should clearly describe the motivation of your project, what you have done, and your findings. A 10-min presentation is also needed. A survey needs to be 10+ pages.
 - Here is the overleaf template for writing proposal and report https://www.overleaf.com/read/bwdqbcxvdmtw
 
 
