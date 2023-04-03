@@ -32,7 +32,7 @@ There is a final project/survey: 100%
 - Week 2-5: Students meet with me to discuss project topic.
 - Week 6: Selection of final project topic done. Project proposal due by end of May 13th, 2022 (Sunday). 
 - Week 10: Finish up your final project
-- Final week: Final project report as well as your recorded presentation are due. Please submit the video to the google drive I shared with you (information will be available in canvas then), and send the report to my email
+- Final week: Final project report as well as your recorded presentation are due. Please submit the video to the google drive I shared with you, and send the report to my email
 
 ## References
 Much of the material is from the book 
@@ -40,8 +40,11 @@ Much of the material is from the book
 
 Other useful references
 - *Computational Topology: An Introduction*,  by  H. Edelsbrunner and J. Harer, AMS Press, 2009.
-- *Algebraic Topology*,  by  A. Hatcher, Cambridge University Press, 2002. (Online version is available at the author's webpage.)
-- *Elements of Algebraic Topology*,  by  J. R. Munkres, Perseus, Cambridge, Massachusetts, 1984.
-
 - https://www.aatrn.net/ (AATRN: Applied Algebraic Topology Research Network)
+- [Lecture notes](https://drive.google.com/open?id=1SCrKHfZdDuMmSKlZ7xveQT8SqBHjFEkk) by Tom Needham (with more focus on mathematics details)
+- A [Zotero database](https://www.zotero.org/groups/2425412/tda-applications/items) of papers on topological data analysis
+- *Algebraic Topology*,  by  A. Hatcher, Cambridge University Press, 2002. (Online version is available at the [author's webpage](https://pi.math.cornell.edu/~hatcher/AT/ATpage.html).)
 
+
+## Assignment 0
+Create a GitHub account and send me your GitHub username through email. I will add you to the course repository.
