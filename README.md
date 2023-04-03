@@ -1,7 +1,7 @@
 # DSC 214: Topological Data Analysis
 
 ## Basic Information
-**Instructor:** [Zhengchao Wan](zhengchaow.github.io) (zcwan@ucsd.edu)
+**Instructor:** [Zhengchao Wan](https://zhengchaow.github.io) (zcwan@ucsd.edu)
 
 **Lectures:** Tuesdays/Thursdays, 9:30am - 10:50am, Center Hall 217A
 
