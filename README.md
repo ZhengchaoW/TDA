@@ -5,7 +5,7 @@
 
 **Lectures:** Tuesdays/Thursdays, 9:30am - 10:50am, Center Hall 217A
 
-**Office Hours:** Tuesdays 10:50am - 11:50am or by appointment (zcwan@ucsd.edu)
+**Office Hours:** Thursdays 10:50am - 11:50am or by appointment (zcwan@ucsd.edu)
 
 
 ## Course Description
@@ -24,7 +24,11 @@ There is a final project/survey: 100%
   - project
   - report
   - short presentation
-- Requirement: Each student is required to meet briefly with me around 3-4th week, so that we can discuss to find a good potential topic for your final project. After a topic is chosen, you are required to submit a short proposal (1-2 pages) about what you intend to work on. Later, after you finish your project, you will submit a final report (4+ pages), which should clearly describe the motivation of your project, what you have done, and your findings. A 10-min presentation is also needed. A survey needs to be 10+ pages.
+- Requirement: 
+  - Each student is required to meet briefly with me around 3-4th week, so that we can discuss to find a good potential topic for your final project. 
+  - After a topic is chosen, you are required to submit a short proposal (1-2 pages) about what you intend to work on. 
+  - Later, after you finish your project, you will submit a final report (4+ pages), which should clearly describe the motivation of your project, what you have done, and your findings. A survey needs to be 10+ pages. 
+  - A 10-min presentation (in class or video) is also needed.
 - Here is the overleaf template for writing proposal and report https://www.overleaf.com/read/bwdqbcxvdmtw
 
 
@@ -32,7 +36,7 @@ There is a final project/survey: 100%
 - Week 2-5: Students meet with me to discuss project topic.
 - Week 6: Selection of final project topic done. Project proposal due by end of May 13th, 2022 (Sunday). 
 - Week 10: Finish up your final project
-- Final week: Final project report as well as your recorded presentation are due. Please submit the video to the google drive I shared with you, and send the report to my email
+- Final week: Final project report as well as your recorded presentation are due. 
 
 ## References
 Much of the material is from the book 
@@ -41,7 +45,7 @@ Much of the material is from the book
 Other useful references
 - *Computational Topology: An Introduction*,  by  H. Edelsbrunner and J. Harer, AMS Press, 2009.
 - https://www.aatrn.net/ (AATRN: Applied Algebraic Topology Research Network)
-- [Lecture notes](https://drive.google.com/open?id=1SCrKHfZdDuMmSKlZ7xveQT8SqBHjFEkk) by Tom Needham (with more focus on mathematics details)
+- [Lecture notes](https://drive.google.com/open?id=1SCrKHfZdDuMmSKlZ7xveQT8SqBHjFEkk) by Dr. Tom Needham from FSU (with more focus on mathematics details)
 - A [Zotero database](https://www.zotero.org/groups/2425412/tda-applications/items) of papers on topological data analysis
 - *Algebraic Topology*,  by  A. Hatcher, Cambridge University Press, 2002. (Online version is available at the [author's webpage](https://pi.math.cornell.edu/~hatcher/AT/ATpage.html).)
 
