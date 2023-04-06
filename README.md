@@ -5,7 +5,7 @@
 
 **Lectures:** Tuesdays/Thursdays, 9:30am - 10:50am, Center Hall 217A
 
-**Office Hours:** Thursdays 10:50am - 11:50am or by appointment (zcwan@ucsd.edu)
+**Office Hours:** 114E, San Diego Supercomputer Center, Thursdays 10:50am - 11:50am or by appointment (zcwan@ucsd.edu)
 
 
 ## Course Description
