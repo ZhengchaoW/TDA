@@ -7,7 +7,7 @@
 
 **Office Hours:** 114E, San Diego Supercomputer Center, Thursdays 10:50am - 11:50am or by appointment (zcwan@ucsd.edu)
 
-
+---
 ## Course Description
 Topological methods provide powerful tools for characterizing structures/features behind data and analyzing diverse complex data (images, graphs, point sets, etc). This course introduces basic concepts and topological structures, as well as recent topological tools, algorithms, as well as examples to applications. Some topics include: basics in topology, simplicial complexes to model data, persistent homology, discrete Morse theory, topology inference, the Mapper methodology, hierarchical clustering, and integration of topological methods with machine learning. A tentative list of topics is listed [here](schedule.pdf)
 
@@ -15,7 +15,7 @@ This course is for graduate students and advanced undergraduate students.
 
 **Prerequisite:** Linear algebra, algorithms
 
-
+---
 
 ## Grading policy
 There is a final project/survey: 100%
@@ -31,6 +31,10 @@ There is a final project/survey: 100%
   - A 10-min presentation (in class or video) is also needed.
 - Here is the overleaf template for writing proposal and report https://www.overleaf.com/read/bwdqbcxvdmtw
 
+### Project ideas
+The class project is for encouraging you to explore topological data analysis methods (whether in applications or theoretically). 
+If you have difficulty in finding a topic, talk to me and we can ﬁnd a suitable topic for your project that can ﬁt your background or your current research interests. For example, you can have a topic to use topological methods to analyze the datasets from your own research. Or you can check out recent TDA related papers in NeurIPS, ICML or ICLR.  See also [Zotero database](https://www.zotero.org/groups/2425412/tda-applications/items) for 400+ papers on applications of TDA. You can then propose to improve one such paper, or use it for your data (in a non-trivial manner).
+
 
 ### Timeline
 - Week 2-5: Students meet with me to discuss project topic.
@@ -38,6 +42,13 @@ There is a final project/survey: 100%
 - Week 10: Finish up your final project
 - Final week: Final project report as well as your recorded presentation are due. 
 
+
+
+
+## Assignment 0
+Create a GitHub account and send me your GitHub username through email. I will add you to the course repository.
+
+---
 ## References
 Much of the material is from the book 
 - ***Computational Topology for Data Analysis*** by Dr. T. K. Dey and Dr. Y. Wang, and you can download an e-version of the book [here](http://yusu.belkin-wang.org/CTDAbook-DeyWang.pdf)
@@ -51,5 +62,14 @@ Other useful references
 - *Algebraic Topology*,  by  A. Hatcher, Cambridge University Press, 2002. (Online version is available at the [author's webpage](https://pi.math.cornell.edu/~hatcher/AT/ATpage.html).)
 
 
-## Assignment 0
-Create a GitHub account and send me your GitHub username through email. I will add you to the course repository.
+---
+## Lecture materials
+
+Topic 0: Introduction to Topological Data Analysis ([slides](slides/Topic0-Intro.pdf))
+
+Topic 1: Basics in Topology ([slides](slides/Topic1-Basics.pdf))
+ 
+Topic 2: Simplicial Complexes ([slides](slides/Topic2-SimplicialComplexes.pdf))
+   - check out these wonderful videos on alpha, Rips and Čech complexes: 
+     -  [Alpha complexes by Ondřej Draganov](https://youtu.be/-XCVn73p3xs)
+     -  [Rips and Čech complexes by Henry Adams](https://youtu.be/YLXAF8IB9Ng)
