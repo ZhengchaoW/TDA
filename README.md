@@ -66,9 +66,9 @@ Other useful references
 
 Topic 0: Introduction to Topological Data Analysis ([slides](slides/Topic0-Intro.pdf))
 
-Topic 1: Basics in Topology ([slides](slides/Topic1-Basics.pdf))
+Topic 1: Basics in Topology ([slides](slides/Topic1-basics.pdf))
  
-Topic 2: Simplicial Complexes ([slides](slides/Topic2-SimplicialComplexes.pdf))
+Topic 2: Simplicial Complexes ([slides](slides/Topic2-simplicial-complex.pdf))
    - check out these wonderful videos on alpha, Rips and Čech complexes: 
      -  [Alpha complexes by Ondřej Draganov](https://youtu.be/-XCVn73p3xs)
      -  [Rips and Čech complexes by Henry Adams](https://youtu.be/YLXAF8IB9Ng)
