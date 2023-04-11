@@ -32,8 +32,7 @@ There is a final project/survey: 100%
 - Here is the overleaf template for writing proposal and report https://www.overleaf.com/read/bwdqbcxvdmtw
 
 ### Project ideas
-The class project is for encouraging you to explore topological data analysis methods (whether in applications or theoretically). 
-If you have difficulty in finding a topic, talk to me and we can ﬁnd a suitable topic for your project that can ﬁt your background or your current research interests. For example, you can have a topic to use topological methods to analyze the datasets from your own research. Or you can check out recent TDA related papers in NeurIPS, ICML or ICLR.  See also [Zotero database](https://www.zotero.org/groups/2425412/tda-applications/items) for 400+ papers on applications of TDA. You can then propose to improve one such paper, or use it for your data (in a non-trivial manner).
+The goal of the class project is to encourage you to explore topological data analysis methods, whether through applications or theoretical research. If you are having difficulty finding a suitable topic, don't hesitate to reach out to me and we can work together to find a topic that fits your background or current research interests. One possibility is to use topological methods to analyze datasets from your own research. Another option is to explore recent TDA-related papers in NeurIPS, ICML, or ICLR. You can find over 400 papers on TDA applications in the [Zotero database](https://www.zotero.org/groups/2425412/tda-applications/items), which you may use as inspiration to improve upon an existing paper or apply to your dataset in a non-trivial manner.
 
 
 ### Timeline
