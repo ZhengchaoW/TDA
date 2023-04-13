@@ -72,3 +72,5 @@ Topic 2: Simplicial Complexes ([slides](slides/Topic2-simplicial-complex.pdf))
    - check out these wonderful videos on alpha, Rips and Čech complexes: 
      -  [Alpha complexes by Ondřej Draganov](https://youtu.be/-XCVn73p3xs)
      -  [Rips and Čech complexes by Henry Adams](https://youtu.be/YLXAF8IB9Ng)
+  
+Topic 3: Homology ([slides](slides/Topic3-homology.pdf))
