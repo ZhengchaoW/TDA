@@ -74,3 +74,5 @@ Topic 2: Simplicial Complexes ([slides](slides/Topic2-simplicial-complex.pdf))
      -  [Rips and Čech complexes by Henry Adams](https://youtu.be/YLXAF8IB9Ng)
   
 Topic 3: Homology ([slides](slides/Topic3-homology.pdf))
+
+Topic 4: Persistent Homology ([slides](slides/Topic4-A-intro-to-pH.pdf))
