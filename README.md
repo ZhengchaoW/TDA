@@ -75,4 +75,4 @@ Topic 2: Simplicial Complexes ([slides](slides/Topic2-simplicial-complex.pdf))
   
 Topic 3: Homology ([slides](slides/Topic3-homology.pdf))
 
-Topic 4: Persistent Homology ([slides](slides/Topic4-A-intro-to-pH.pdf))
+Topic 4: Persistent Homology ([slides A](slides/Topic4-A-intro-to-pH.pdf), [slides B](slides/Topic4-B-common-pH.pdf))
