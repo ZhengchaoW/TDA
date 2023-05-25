@@ -82,3 +82,5 @@ Topic 5: Stability of persistence diagrams ([slides](slides/Topic5-stability.pdf
 Topic 6: Persistent Homology of PCD ([slides](slides/Topic6-PCD.pdf))
 
 Topic 7: Persistence in Practice ([slides](slides/Topic7-practice.pdf))
+
+Topic 8: TDA in machine learning ([slides](slides/Topic8-ML.pdf))
