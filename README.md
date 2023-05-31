@@ -39,7 +39,7 @@ The goal of the class project is to encourage you to explore topological data an
 - Week 2-5: Students meet with me to discuss project topic.
 - Week 6: Selection of final project topic done. Project proposal due by end of May 14th, 2023 (Sunday). 
 - Week 10: Finish up your final project
-- Final week: Final project report as well as your recorded presentation are due. 
+- Final week: Final project report as well as your recorded presentation are due by June 15, 2023 (Thursday). Use zoom to record your presentation and send me the link. See assignments in canvas.
 
 
 
