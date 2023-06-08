@@ -89,3 +89,5 @@ Topic 8: TDA in machine learning ([slides](slides/Topic8-ML.pdf))
 Topic 9: Mapper ([slides](slides/Topic9-Mapper.pdf))
 
 Topic 10: Discrete Morse Theory ([slides](slides/Topic10-DMT.pdf))
+
+Final Remarks ([slides](slides/Final_Remarks.pdf))
