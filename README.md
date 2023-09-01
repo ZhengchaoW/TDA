@@ -55,7 +55,7 @@ Much of the material is from the book
 Other useful references
 - *Computational Topology: An Introduction*,  by  H. Edelsbrunner and J. Harer, AMS Press, 2009.
 - https://www.aatrn.net/ (AATRN: Applied Algebraic Topology Research Network)
-- Yusu's [course webpage](https://sites.google.com/ucsd.edu/dsc291-190-tda)
+- Yusu's [course webpage](https://sites.google.com/ucsd.edu/dsc291-190-tda). The slides below are adapted from Yusu's slides.
 - [Lecture notes](https://drive.google.com/open?id=1SCrKHfZdDuMmSKlZ7xveQT8SqBHjFEkk) by Dr. Tom Needham from FSU (with more focus on mathematics details)
 - A [Zotero database](https://www.zotero.org/groups/2425412/tda-applications/items) of papers on topological data analysis
 - *Algebraic Topology*,  by  A. Hatcher, Cambridge University Press, 2002. (Online version is available at the [author's webpage](https://pi.math.cornell.edu/~hatcher/AT/ATpage.html).)
